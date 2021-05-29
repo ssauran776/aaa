@@ -1,0 +1,126 @@
+body{
+    height: 2450px;
+}
+header h1{
+    width: 100%;
+    height: 50px;
+    background-color: green;
+    text-align: center;
+    margin: 0px;
+    position: relative;
+    top: -310px;
+}
+header img{
+    height: 36px;
+    position: relative;
+    top: -346px;
+}
+.dv{
+    position: relative;
+    left: 1765px;
+}
+footer{
+    position: relative;
+    top: -1500px;
+
+}
+footer img{
+    height: 16px;
+    position: relative;
+    left: 88%;
+}
+footer span{
+    position: relative;
+    top: 20px;
+}
+footer div{
+    position: relative;
+    top: 640px;
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    color: white;
+}
+main{
+    text-align: left;
+    margin-left: 500px;
+    line-height: 25px;
+    font-size: 20px;
+    position: relative;
+    top: -300px;
+}
+.mainimg1{
+    height: 500px;
+    position: relative;
+    left: 40px;
+    padding-bottom: 50px;
+}
+.uslugi-img1{
+    height: 400px;
+    position: relative;
+    left: -350px;
+    top: -50px;
+}
+.uslugi-img2{
+    height: 400px;
+    position: relative;
+    left: 450px;
+    top: -550px;
+}
+.uslugi-img3{
+    height: 400px;
+    position: relative;
+    left: -350px;
+    top: -430px;
+}
+.uslugi-img4{
+    height: 400px;
+    position: relative;
+    left: 450px;
+    top: -930px;
+}
+.uslugi-p1{
+    position: relative;
+    top: 450px;
+    font-size: 36px;
+    left: -100px;
+}
+.uslugi-p2{
+    position: relative;
+    font-size: 36px;
+    left: 725px;
+    top: -50px;
+}
+.uslugi-p3{
+    position: relative;
+    top: 100px;
+    font-size: 36px;
+    left: -150px;
+}
+.uslugi-p4{
+    position: relative;
+    top: -400px;
+    font-size: 36px;
+    left: 650px;
+}
+.kart img{
+    height: 300px;
+    position: relative;
+}
+.kart img:nth-child(1){
+    position: relative;
+    top: 400px;
+}
+.kart img:nth-child(2){
+    position: relative;
+    top: 400px;
+    left: 950px;
+}
+a{
+    border: solid cyan 0.5px;
+    border-radius: 25px;
+    font-size: 36px;
+    background-color: cyan;
+    color: white;
+    text-decoration: none;
+}
