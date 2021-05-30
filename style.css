@@ -1,10 +1,12 @@
 body{
-    height: 2450px;
+    /* height: 2390px; */
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    max-height: 2450px;
 }
 header h1{
     width: 100%;
     height: 50px;
-    background-color: green;
+    background-color: red;
     text-align: center;
     margin: 0px;
     position: relative;
@@ -74,7 +76,7 @@ main{
     top: -430px;
 }
 .uslugi-img4{
-    height: 400px;
+    max-height: 400px;
     position: relative;
     left: 450px;
     top: -930px;
@@ -117,10 +119,10 @@ main{
     left: 950px;
 }
 a{
-    border: solid cyan 0.5px;
+    border: solid black 0.5px;
     border-radius: 25px;
     font-size: 36px;
-    background-color: cyan;
+    background-color: orangered;
     color: white;
     text-decoration: none;
 }
